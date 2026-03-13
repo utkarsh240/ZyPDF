@@ -10,6 +10,7 @@ const nextConfig = {
       canvas: './empty.js',
     },
   },
+  output: 'export',
 };
 
 module.exports = nextConfig;
